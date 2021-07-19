@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<br>
+
+#### A brief list of things I am into
+
+<br>
+
+| Languages   | Tools & Frameworks |
+| ----------  | ----------         |
+| C/C++       | React.js           | 
+| Python      | Express.js         |
+| JavaScript  | MongoDB            |
+| Java        | MySQL              |
+| HTML        |                    |
+| CSS         |                    |
+
 <!--
 **Jintumoni/Jintumoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
