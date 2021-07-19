@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<br>
 
 #### A brief list of things I am into
 
